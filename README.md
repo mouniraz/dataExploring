@@ -5,4 +5,6 @@ using one of csv files in this reposotory, explore this dataset following these 
 3. data visualisation (univariate and multi variate plots)
 # Modelisation 
 using the same data test classification algorithms and compare accuracy 
+as exemple we can use this tutorial
+https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/ 
    
